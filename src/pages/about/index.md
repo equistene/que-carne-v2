@@ -1,19 +1,16 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Acerca de Qué Carne
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+**¿Qué carne llevo?** es una pequeña guía desarrollada por [Cristian Berrios (equistene)](https://www.xtn.cl/) para ayudar a solucionar ese problema que surge cada vez que estás en el supermercado parado frente a las refrigeradoras de carnes sin saber cuál llevar.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Agradecimientos adicionales para [Alvaro Véliz](http://alvaroveliz.cl/) por la ayuda y a Alonso Aranda por enviarme la [imagen que dió pie a este proyecto.](https://quecarne.cl/img/carnacas.jpg)
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Si esta guía te sirvió, compártela con otros en:
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+[Facebook](https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fquecarne.cl)[\
+Twitter](https://twitter.com/intent/tweet/?text=%C2%BFQu%C3%A9%20carne%20llevo%3F%20Una%20gu%C3%ADa%20simple%20para%20elegir%20carne%20seg%C3%BAn%20tipo%20de%20preparaci%C3%B3n&url=https%3A%2F%2Fquecarne.cl)\
+[Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fquecarne.cl&title=%C2%BFQu%C3%A9%20carne%20llevo%3F%20Una%20gu%C3%ADa%20simple%20para%20elegir%20carne%20seg%C3%BAn%20tipo%20de%20preparaci%C3%B3n&summary=%C2%BFQu%C3%A9%20carne%20llevo%3F%20Una%20gu%C3%ADa%20simple%20para%20elegir%20carne%20seg%C3%BAn%20tipo%20de%20preparaci%C3%B3n&source=https%3A%2F%2Fquecarne.cl)\
+[WhatsApp](whatsapp://send?text=%C2%BFQu%C3%A9%20carne%20llevo%3F%20Una%20gu%C3%ADa%20simple%20para%20elegir%20carne%20seg%C3%BAn%20tipo%20de%20preparaci%C3%B3n%20https%3A%2F%2Fquecarne.cl)[\
+Telegram](https://telegram.me/share/url?text=%C2%BFQu%C3%A9%20carne%20llevo%3F%20Una%20gu%C3%ADa%20simple%20para%20elegir%20carne%20seg%C3%BAn%20tipo%20de%20preparaci%C3%B3n&url=https%3A%2F%2Fquecarne.cl)
